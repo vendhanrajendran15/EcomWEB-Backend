@@ -15,3 +15,10 @@ This is the backend for the [ecommerce-project](https://github.com/SuperSimpleDe
 
 ## Troubleshooting
 If you run into issues, see the [troubleshooting steps](troubleshooting.md).
+## about this project
+The full backend code is developed using AI only but I built the front using react ,for deployment purpose only I had added this repo.
+## you can checkout the frontend for this project in the below repo
+https://github.com/vendhanrajendran15/EcomWEB-Frontend
+
+## this is the URL to visit my site
+https://basicecom-1yb3.onrender.com/
